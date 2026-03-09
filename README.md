@@ -37,9 +37,8 @@ Análise técnica para identificação de padrões de inadimplência e perfis de
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gama-luvizaro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gama-bb7a5b11a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoGL1996)
 
 ---
-*Baseado
 *Analista de Dados focado em soluções analíticas para o setor financeiro e de negócios.*
