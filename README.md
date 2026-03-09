@@ -1,8 +1,8 @@
 # Olá, eu sou o Bruno Gama Luvizaro! 👋
 
-Estou em transição de carreira para a área de **Análise de Dados**, unindo mais de 7 anos de experiência no setor bancário com formação técnica em Administração e Desenvolvimento de Sistemas. 
+Estou em transição de carreira para a área de **Análise de Dados**, unindo mais de 7 anos de experiência no setor bancário (Santander, Banco Pan e Itaú) com formação acadêmica em Administração (ADM) e Análise e Desenvolvimento de Sistemas (ADS). 
 
-Foco em transformar dados brutos em insights estratégicos para suporte à tomada de decisão.
+Meu objetivo é aplicar o conhecimento de negócio e técnico para extrair insights estratégicos através de dados.
 
 ---
 
@@ -16,16 +16,13 @@ Foco em transformar dados brutos em insights estratégicos para suporte à tomad
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projeto em Destaque
 
 #### [📊 Análise de Risco de Crédito](https://github.com/BrunoGL1996/projeto-analise-risco-credito)
-Projeto focado em identificar padrões de inadimplência e perfis de risco utilizando SQL para extração e Power BI para visualização. 
+Análise técnica para identificação de padrões de inadimplência e perfis de risco.
+- **O que foi feito:** Extração e manipulação de dados com SQL, criação de KPIs financeiros e visualização de dados.
 - **Ferramentas:** SQL Server, Power BI.
-- **Destaque:** Criação de dashboards interativos com indicadores de risco (KPIs).
-
-#### [🛒 Previsão de Demanda E-commerce](https://github.com/BrunoGL1996/ecommerce-analytics-demand-forecast)
-Análise de séries temporais para prever tendências de vendas e otimizar estoque.
-- **Ferramentas:** Python (Pandas/Matplotlib), SQL.
+- **Impacto:** Dashboard interativo para suporte à decisão em concessão de crédito.
 
 ---
 
@@ -44,4 +41,5 @@ Análise de séries temporais para prever tendências de vendas e otimizar estoq
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoGL1996)
 
 ---
+*Baseado
 *Analista de Dados focado em soluções analíticas para o setor financeiro e de negócios.*
