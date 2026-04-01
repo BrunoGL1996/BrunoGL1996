@@ -1,8 +1,10 @@
 # Olá, eu sou o Bruno Gama Luvizaro! 👋
 
-Estou em transição de carreira para a área de **Análise de Dados**, unindo mais de 7 anos de experiência no setor bancário (Santander e Itaú) com formação acadêmica em Administração (ADM) e Análise e Desenvolvimento de Sistemas (ADS). 
+Atuo na área de Análise de Dados, combinando mais de 7 anos de experiência no setor financeiro com habilidades técnicas em Python, SQL e Power BI.
 
-Meu objetivo é aplicar o conhecimento de negócio e técnico para extrair insights estratégicos através de dados.
+Tenho foco em transformar dados em insights estratégicos, com experiência prática em análise de risco de crédito, comportamento de clientes (churn) e análise de mercados financeiros.
+
+Desenvolvo projetos end-to-end envolvendo tratamento de dados, modelagem preditiva e visualização para suporte à tomada de decisão.
 
 ---
 
