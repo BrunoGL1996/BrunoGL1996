@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno Gama Luvizaro! 👋
 
-Atuo na área de Análise de Dados, combinando mais de 7 anos de experiência no setor financeiro com habilidades técnicas em Python, SQL e Power BI.
+Atuo na área de Análise de Dados, combinando mais de 7 anos de experiência no mercado financeiro com habilidades técnicas em Python, SQL e Power BI.
 
 Tenho foco em transformar dados em insights estratégicos, com experiência prática em análise de risco de crédito, comportamento de clientes (churn) e análise de mercados financeiros.
 
