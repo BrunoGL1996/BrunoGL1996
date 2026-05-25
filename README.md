@@ -27,7 +27,6 @@ Análise técnica para identificação de padrões de inadimplência e perfis de
 - **O que foi feito:** Extração e manipulação de dados com SQL, criação de KPIs financeiros e visualização de dados.
 - **Ferramentas:** SQL Server, Power BI.
 - **Impacto:** Dashboard interativo para suporte à decisão em concessão de crédito.
-- https://github.com/usuario/repositorio/raw/main/images/dashboard.gif
 ---
 
 Profissional de Business Intelligence e Analytics focado em performance, indicadores estratégicos e inteligência de negócios aplicada ao mercado financeiro.
