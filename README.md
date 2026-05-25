@@ -25,7 +25,7 @@ Foco em transformar dados em insights estratégicos para otimização de resulta
 #### [📊 Análise de Risco de Crédito](https://github.com/BrunoGL1996/projeto-analise-risco-credito)
 
 <p align="center">
-  <img src="https://github.com" alt="Demonstração do Projeto" width="100%">
+  <img src="https://githubusercontent.com" alt="Análise de Risco de Crédito" width="100%">
 </p>
 
 
