@@ -30,16 +30,3 @@ Análise técnica para identificação de padrões de inadimplência e perfis de
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoGL1996&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGL1996&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-gama-bb7a5b11a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoGL1996)
-
----
-*Analista de Dados focado em soluções analíticas para o setor financeiro e de negócios.*
