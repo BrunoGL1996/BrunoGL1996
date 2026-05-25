@@ -23,6 +23,11 @@ Foco em transformar dados em insights estratégicos para otimização de resulta
 ### 🚀 Projeto em Destaque
 
 #### [📊 Análise de Risco de Crédito](https://github.com/BrunoGL1996/projeto-analise-risco-credito)
+
+<p align="center">
+  <img src="https://githubusercontent.com credito gif.gif" alt="Demonstração do Projeto" width="100%">
+</p>
+
 Análise técnica para identificação de padrões de inadimplência e perfis de risco.
 - **O que foi feito:** Extração e manipulação de dados com SQL, criação de KPIs financeiros e visualização de dados.
 - **Ferramentas:** SQL Server, Power BI.
