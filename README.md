@@ -30,3 +30,4 @@ Análise técnica para identificação de padrões de inadimplência e perfis de
 
 ---
 
+Profissional de Business Intelligence e Analytics focado em performance, indicadores estratégicos e inteligência de negócios aplicada ao mercado financeiro.
