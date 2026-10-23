@@ -94,4 +94,4 @@ Ao longo da minha experiência no mercado financeiro, desenvolvi competências d
 - **Gestão de carteira:** acompanhamento de clientes com diferentes perfis, necessidades e oportunidades.
 - **Ativação e engajamento:** identificação de oportunidades para ampliar a utilização de produtos e serviços.
 - **Retenção:** atuação sobre necessidades, insatisfações e riscos de perda de clientes.
-- **
+  
